@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{646B655D-6507-48DD-85A3-356EB1E3A130}|Default">
+  <MonoDevelop.Ide.ItemProperties.ListaPessoaApp.Android PreferredExecutionTarget="Android.JBAKB6044247LNM" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ListaPessoaApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="ListaPessoaApp/MainPage.xaml" Line="50" Column="24" />
+      <File FileName="ListaPessoaApp/PeoplePage.xaml" Line="1" Column="1" />
+      <File FileName="ListaPessoaApp/App.xaml.cs" Line="14" Column="15" />
+      <File FileName="ListaPessoaApp/PeoplePage.xaml" Line="16" Column="48" />
+      <File FileName="ListaPessoaApp/MainPage.xaml.cs" Line="18" Column="22" />
+      <File FileName="ListaPessoaApp/PeoplePage.xaml.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ListaPessoaApp" expanded="True">
+            <Node name="ListaPessoaApp" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="PeoplePage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ListaPessoaApp.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

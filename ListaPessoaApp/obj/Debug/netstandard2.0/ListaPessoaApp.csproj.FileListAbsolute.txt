@@ -1,0 +1,13 @@
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/ListaPessoaApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/ListaPessoaApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/ListaPessoaApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/ListaPessoaApp.AssemblyInfo.cs
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/PeoplePage.xaml.g.cs
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/ListaPessoaApp.dll
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/ListaPessoaApp.pdb
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/bin/Debug/netstandard2.0/ListaPessoaApp.deps.json
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/bin/Debug/netstandard2.0/ListaPessoaApp.dll
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/bin/Debug/netstandard2.0/ListaPessoaApp.pdb
+/Users/aluno/Projects/ListaPessoaApp/ListaPessoaApp/obj/Debug/netstandard2.0/XamlC.stamp
